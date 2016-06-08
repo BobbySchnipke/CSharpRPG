@@ -1,0 +1,11 @@
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\bin\Debug\FinalProjectRev0.exe.config
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\bin\Debug\FinalProjectRev0.exe
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\bin\Debug\FinalProjectRev0.pdb
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\obj\Debug\FinalProjectRev0.csprojResolveAssemblyReference.cache
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\obj\Debug\FinalProjectRev0.Form1.resources
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\obj\Debug\FinalProjectRev0.csproj.GenerateResource.Cache
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\obj\Debug\FinalProjectRev0.exe
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\obj\Debug\FinalProjectRev0.pdb
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.Properties.Resources.resources
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.GamePlayForm.resources
+D:\Final Project\FinalProjectRev0\FinalProjectRev0\bin\Debug\TurnBasedBattleGame.exe.config
