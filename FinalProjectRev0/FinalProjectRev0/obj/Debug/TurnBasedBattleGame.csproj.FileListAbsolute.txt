@@ -32,3 +32,15 @@ C:\Users\bobby\Desktop\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBatt
 C:\Users\bobby\Desktop\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.Properties.Resources.resources
 C:\Users\bobby\Desktop\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.WinnerForm.resources
 C:\Users\bobby\Desktop\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.csproj.GenerateResource.Cache
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\bin\Debug\TurnBasedBattleGame.exe.config
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.exe
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.pdb
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\bin\Debug\TurnBasedBattleGame.exe
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\bin\Debug\TurnBasedBattleGame.pdb
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.csprojResolveAssemblyReference.cache
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.GamePlayForm.resources
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.LoserForm.resources
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.StartScreen.resources
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.Properties.Resources.resources
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.WinnerForm.resources
+D:\Github\CSharpRPG\FinalProjectRev0\FinalProjectRev0\obj\Debug\TurnBasedBattleGame.csproj.GenerateResource.Cache

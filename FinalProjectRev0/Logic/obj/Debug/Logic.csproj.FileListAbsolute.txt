@@ -1,0 +1,5 @@
+D:\Github\CSharpRPG\FinalProjectRev0\Logic\bin\Debug\Logic.dll
+D:\Github\CSharpRPG\FinalProjectRev0\Logic\bin\Debug\Logic.pdb
+D:\Github\CSharpRPG\FinalProjectRev0\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+D:\Github\CSharpRPG\FinalProjectRev0\Logic\obj\Debug\Logic.dll
+D:\Github\CSharpRPG\FinalProjectRev0\Logic\obj\Debug\Logic.pdb
